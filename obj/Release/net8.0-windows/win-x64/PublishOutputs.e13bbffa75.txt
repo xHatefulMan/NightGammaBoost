@@ -1,2 +1,0 @@
-C:\Users\julie\OneDrive\Desktop\Projets visual\AdaptiveBrightness\AdaptiveBrightness\bin\Release\net8.0-windows\win-x64\publish\NightGammaBoost.pdb
-C:\Users\julie\OneDrive\Desktop\Projets visual\AdaptiveBrightness\AdaptiveBrightness\bin\Release\net8.0-windows\win-x64\publish\NightGammaBoost.exe
